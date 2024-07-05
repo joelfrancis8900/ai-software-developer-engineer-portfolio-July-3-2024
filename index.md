@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-theme: Architect
 ---
 
 # Welcome to My Portfolio
